@@ -1,0 +1,8 @@
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\bin\Debug\WindowsFormsApplication1_2.exe.config
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\bin\Debug\WindowsFormsApplication1_2.exe
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\bin\Debug\WindowsFormsApplication1_2.pdb
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\obj\Debug\WindowsFormsApplication1_2.Form1.resources
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\obj\Debug\WindowsFormsApplication1_2.Properties.Resources.resources
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\obj\Debug\WindowsFormsApplication1_2.csproj.GenerateResource.Cache
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\obj\Debug\WindowsFormsApplication1_2.exe
+E:\3 курс\практика\WindowsFormsApplication1_2\WindowsFormsApplication1_2\obj\Debug\WindowsFormsApplication1_2.pdb
